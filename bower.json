@@ -1,0 +1,16 @@
+{
+  "name": "km",
+  "private": "true",
+  "devDependencies": {
+    "ionic": "driftyco/ionic-bower#1.0.0-beta.14",
+    "ngDialog": "likeastore/ngDialog#0.3.0",
+    "pouchdb": "~3.0.6",
+    "ngCordova": "~0.1.4-alpha",
+    "crypto-js": "http://crypto-js.googlecode.com/svn/tags/3.1.2/build/rollups/sha3.js",
+    "sjcl": "https://github.com/bitwiseshiftleft/sjcl.git#1.0.0",
+    "ngDraggable": "*",
+    "jquery": "1.10.2",
+    "angular-mocks": "~1.3.0",
+    "platform": "~1.3.0"
+  }
+}
